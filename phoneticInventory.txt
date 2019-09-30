@@ -1,0 +1,14 @@
+		labial	dental	velar	glottal
+stops		p-b	t-d	k-g
+fricatives	f-v	s-z
+nasals		m	n
+liquids			l,r
+semivowels	w	y
+
+
+
+
+	front		back
+high	i		u
+	e		o
+low		a
