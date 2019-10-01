@@ -13,3 +13,12 @@ Place between the subject and the verb.
 # Questions
 * Sentence-end particles for different types of questions (yes-no, multiple choice, free answer, &c.).
   * Other particles go in the sentence after the relevant words to clarify. (such as the options in a multiple choice)
+# Negation
+* Preface the word to be negated with a negation particle. To negate a phrase, put it before the final word (not including discursives); same with sentences.
+# Relative Clauses
+* Handle it as in modifying Nouns, wrapping the subclause in delineators if necessary.
+# Delineators
+* Sentence
+* Sub-sentence
+* Subject
+* Postpositional Phrase Section
