@@ -1,6 +1,6 @@
 		labial	dental	glottal
 stops		p	t	k
-fricatives	f	s
+fricatives	f	s,z
 nasals			n
 semivowels		j
 
@@ -9,5 +9,5 @@ semivowels		j
 
 	front		back
 high	i		u
-			o
-low		a
+	e	y	o
+low	a
