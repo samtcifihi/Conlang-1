@@ -14,4 +14,4 @@ low	a
 
 "i" has /j/ as an allophone in diagraphs.
 "e" varies in /e/, /ɛ/, /ɪ/.
-"y" has /w/ as an allophone in the initial position of a diagraph.
+"y" is pronounced /ɘ/ and has /w/ as an allophone in the initial position of a diagraph.
