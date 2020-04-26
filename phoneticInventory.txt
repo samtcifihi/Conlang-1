@@ -1,8 +1,8 @@
-		labial	dental	glottal
-stops		p	t	k
-fricatives	f	s,z
-nasals			n
-semivowels		j
+		bilabial	alveolar	postalveolar	velar
+plosives	p,b		t,d				k,g
+nasals				n
+fricatives	f,v		s,z		ʃ,ʒ
+approximant			l
 
 
 
@@ -11,3 +11,7 @@ semivowels		j
 high	i		u
 	e	y	o
 low	a
+
+"i" has /j/ as an allophone in diagraphs.
+"e" varies in /e/, /ɛ/, /ɪ/.
+"y" has /w/ as an allophone in the initial position of a diagraph.
